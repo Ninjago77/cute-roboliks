@@ -16,7 +16,7 @@ Hope you'll like my very first game for my very first Game Jam.
 1. Download Python 3.8+
 >[![Download it at:- https://www.python.org/downloads/](https://www.python.org/static/img/python-logo@2x.png)](https://www.python.org/downloads/)
 2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [pygame](https://pypi.org/project/pygame/)
->[![```pip install pygame```](carbon.png)](https://pypi.org/project/pygame/)
+>[![```pip install pygame```](carbon.jpg)](https://pypi.org/project/pygame/)
 3. Run [main.py](https://github.com/Ninjago77/cute-roboliks/blob/main/main.py)
->[![```python main.py```](carbon2.png)](https://github.com/Ninjago77/cute-roboliks/blob/main/main.py)
+>[![```python main.py```](carbon2.jpg)](https://github.com/Ninjago77/cute-roboliks/blob/main/main.py)
 ## Level Editor
