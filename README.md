@@ -20,4 +20,23 @@ Hope you'll like my very first game for my very first Game Jam.
 3. Run [main.py](https://github.com/Ninjago77/cute-roboliks/blob/main/main.py)
 >[![```python main.py```](/pics/carbon2.jpg)](https://github.com/Ninjago77/cute-roboliks/blob/main/main.py)
 ## Changing the Settings
+Open the `settings.json` file, you'll see this. You can modify any value here:-
+>[![```{
+    "toggle-hitbox": true,
+    "start-hitbox": false,
+    "font-type": "CourierNew",
+    "font-size-1": 38,
+    "font-size-2": 32,
+    "start-level": 0,
+    "rand-null": 4,
+    "rand-threshold": 60,
+    "player-speed": 2.5,
+    "robot-speed": 1.5,
+    "spark-speed": 2.5,
+    "FPS": 60,
+    "min-distance": 256
+}```](/pics/carbon3.jpg)](https://github.com/Ninjago77/cute-roboliks/blob/main/settings.json)
 ## Level Editor
+>Docs coming soon!
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
