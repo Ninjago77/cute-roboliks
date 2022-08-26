@@ -1,4 +1,9 @@
 # Cute Roboliks &lt;3
+[![Itch.io](https://img.shields.io/badge/itch.io-play%20now-red)](https://ninjago77.itch.io/cute-roboliks)
+[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/Ninjago77/cute-roboliks/blob/main/LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
+[![Pygame 2](https://img.shields.io/badge/pygame-2%2B-blue)](https://www.pygame.org/wiki/GettingStarted)
+-
 Cute Robolicks &lt;3 is a little tiny cute robot game for the WOWIE! Game Jam 4.
 
 Its very simple to play, easy to control your movements and overall fun to play.
@@ -39,4 +44,4 @@ Open the `settings.json` file, you'll see this. You can modify any value here:-
 ## Level Editor
 >Docs coming soon!
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Ninjago77/cute-roboliks/blob/main/LICENSE)
